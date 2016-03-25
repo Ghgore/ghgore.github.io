@@ -13,5 +13,6 @@ div {
 
 #1 {
     background-color: aqua;
-    color: red;
+    text-decoration: underline
+    text-decoration-color: red;
 }
