@@ -15,10 +15,5 @@ div {
     background-color: aqua;
     text-decoration: underline
     text-decoration-color: red;
-}
-
-p {
-    background-color: aqua;
-    text-decoration: underline
-    text-decoration-color: red;
+    color: aqua
 }
