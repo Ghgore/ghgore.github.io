@@ -4,5 +4,7 @@ background-color: Red;
 }
 
 div {
-    background-color: blue
+    background-color: blue;
+    height: 20dp;
+    width: 100dp;
 }
