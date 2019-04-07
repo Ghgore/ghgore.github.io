@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Cayman Thumbnail](thumbnail.png)
 
 ### Large image
 
