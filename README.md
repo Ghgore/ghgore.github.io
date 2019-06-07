@@ -3,7 +3,7 @@
 
 I made this website as a central place to showcase my work, and as a homepage for all my other various social media and websites/projects. 
 
-![](header.png)
+![](thumbnail.png)
 
 ## Release History
 
