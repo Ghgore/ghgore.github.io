@@ -2,4 +2,8 @@
 layout: default
 ---
 
-# _WIP_
+> You can't depend on luck, because luck is not dependable if you work hard enough, luck may just come through for you.
+
+Griffin Gore is a aspiring developer, gamer, tech enthusiast, and car nerd. He has been interested in technology since he was a kid, and built his first custom desktop when he was 14, and he definitely learned the importance of copper standoffs :)
+
+Griffin hasn't really done any notable work yet, but when he does, this site is most likely where he'll show it off. 
