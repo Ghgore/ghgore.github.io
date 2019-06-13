@@ -1,6 +1,10 @@
 # Griffin's Website
 > A website I created to showcase my work
 
+![GitHub top language](https://img.shields.io/github/languages/top/ghgore/ghgore.github.io.svg)
+![GitHub](https://img.shields.io/github/license/ghgore/ghgore.github.io.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/ghgore/ghgore.github.io.svg)
+
 I made this website as a central place to showcase my work, and as a homepage for all my other various social media and websites/projects. 
 
 ![](thumbnail.png)
