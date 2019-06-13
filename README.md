@@ -14,7 +14,7 @@ I made this website as a central place to showcase my work, and as a homepage fo
 
 Griffin Gore – [@Ghgore_](https://twitter.com/Ghgore_)
 
-Distributed under the CC0-1.0 license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/Ghgore/ghgore.github.io/blob/master/LICENSE) for more information.
 
 [https://github.com/ghgore/ghgore.github.io](https://github.com/ghgore/ghgore.github.io)
 
