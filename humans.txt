@@ -1,0 +1,31 @@
+
+                            
+/* TEAM */
+
+                            
+Title: Griffin Gore
+
+                            
+Site: griffin.gore@outlook.com
+                            
+Twitter: @Ghgore_
+
+                            
+Location: Charlotte, NC, US
+
+
+/* SITE */
+
+                            
+Last update: 2019/06/12
+
+                            
+Standards: HTML5, CSS3, Ruby, JS, etc.
+
+                            
+Components: Jekyll, Node.js
+
+                            
+Software: JetBrains WebStorm, Microsoft VS Code, GitHub Desktop App
+   
+                        

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /blankpage/
+
+Sitemap: https://ghgore.com/sitemap.xml
