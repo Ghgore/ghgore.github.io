@@ -7,7 +7,7 @@
 
 I made this website as a central place to showcase my work, and as a homepage for all my other various social media and websites/projects. 
 
-![](thumbnail.png)
+![](/assets/images/thumbnail.png)
 
 ## Release History
 
