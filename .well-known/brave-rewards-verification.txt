@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ghgore.com
+Token: a45b8565812fb6dcabd3a3e1ea59baa9841e2d78533eab68d698826971cf69a9
