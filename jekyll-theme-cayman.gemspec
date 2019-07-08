@@ -1,4 +1,5 @@
 Gem::Specification.new do |s|
+  # frozen_string_literal: true
   s.name          = 'jekyll-theme-cayman'
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
