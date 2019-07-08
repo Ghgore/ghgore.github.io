@@ -1,7 +1,7 @@
 # Griffin's Website
 > A website I created to showcase my work
 
-![GitHub top language](https://img.shields.io/github/languages/top/ghgore/ghgore.github.io.svg)
+[![Build Status](https://travis-ci.com/Ghgore/ghgore.github.io.svg?branch=master)](https://travis-ci.com/Ghgore/ghgore.github.io)
 ![GitHub](https://img.shields.io/github/license/ghgore/ghgore.github.io.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ghgore/ghgore.github.io.svg)
 
