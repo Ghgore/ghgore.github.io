@@ -6,7 +6,7 @@ description: A central place to find all of my projects
 
 ## Minecraft
 #### Minima Modpack
-[Website](https://ghgore.com/Minecraft-Minima)     
+[Website](https://ghgore.com/Minecraft-Minima)
 [GitHub](https://github.com/Ghgore/Minecraft-Minima)
 
 
