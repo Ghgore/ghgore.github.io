@@ -1,0 +1,15 @@
+---
+layout: post
+author: Griffin Gore
+---
+I recently switched from Google Keep to Microsoft To-Do for my task list needs, and I felt like I should write a blog post just in case my reasoning helps anyone else make the decision to switch. 
+
+Now for reference I've been using Google Keep pretty much since it came out and have been happy with it's simplicity, even if it required some creativity to make up for features it didn't have (like color coding notes to organize them before they added tags), and I've really enjoyed some of the nifty features not all basic note apps have like (obviously) the sync feature, and the small but extremely useful feature to change the preset times for snooze. I was so happy in fact, that I didn't even know what I was missing out on. That is until I tried Microsoft To Do. 
+
+Now I wasn't expecting much from it, because I had tried apps like Wunderlist (the app To Do was derived from), but I didn't like the design and it just didn't flow for me. However when I tried To Do, the design immediately caught my eye as a beautiful mix between minimalism and detail with the stylistic backgrounds and the new Microsoft UI style. It also has a surprising amount of features while still being easy to use as well. It definitely seems more organized than Google Keep for to-do lists, and while that was enough to get me to switch over, I discovered something even more amazing, the integrations. 
+
+It started with me noticing that I could flag emails in Outlook and save them to a list, and they'd appear in my To Do app. Cool 😎, but what else can it do? Well the first thing that comes to mind is a REST API since that opens the door for all kinds on integrations that Microsoft couldn't possibly think of on their own, and sure enough a quick Google search gave me what a was looking for, [these docs](https://support.office.com/en-us/article/using-microsoft-to-do-s-api-f944256d-3b08-4945-ba69-2c17afeb60b4), which aren't specifically for To Do, but do exist, and allow you to modify To Do lists. Perfect, now to write some integrations of my own with my newfound REST API Python skills with the requests library. 
+
+You may have noticed that I specifically mentioned that I was switching over just my *to-do* needs and not the rest of my note taking tasks to To Do, and there's a reason for that. Obviously that's all To Do is meant *to do* (haha 😂), and you could say that I should OneNote to go along with it, which is fair but OneNote has always just felt like too much for a simple note taking app for me, and while I'm sure it's great for project planning, it just doesn't have the same simple but powerful UX as Google Keep. So I sticking with it for general note taking uses like jotting down ideas or scratch paper and whatnot. I also managed to find [this](https://github.com/kiwiz/gkeepapi) unofficial Python API on GitHub, which I'd recommend checking out if you're interested. 
+
+Anyway, that's all for this blog post, and definitely expect to see some updates on here as I learn how to do cool stuff with REST APIs, and start to make cool or useful projects with them. 
