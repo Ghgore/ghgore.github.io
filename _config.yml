@@ -3,3 +3,6 @@ description: My Website and Portfolio
 show_downloads: false
 google_analytics: UA-59485916-2
 theme: jekyll-theme-cayman
+url: "https://ghgore.com"
+plugins:
+  - jekyll-sitemap
