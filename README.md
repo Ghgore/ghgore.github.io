@@ -16,7 +16,7 @@ I made this website as a central place to showcase my work, and as a homepage fo
 
 ## Meta
 
-Griffin Gore – [@Ghgore_](https://twitter.com/Ghgore_)
+Griffin Gore - Author
 
 Distributed under the MIT license. See [LICENSE](https://github.com/Ghgore/ghgore.github.io/blob/master/LICENSE) for more information.
 
